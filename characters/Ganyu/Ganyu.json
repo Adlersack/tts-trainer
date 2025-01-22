@@ -1,0 +1,5499 @@
+[
+    [
+        "005a74499683d2a2",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But this doesn't bring the city or its people to a standstill. They have to keep moving forward.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "007fed67815b0cca",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_greetingNoon.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "*yawn* Ugh... I need a nap. If there aren't any urgent matters, I'll excuse myself.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "0122036e59732a9a",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_friendship_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Thank you for always making time to chat with me. I feel like I must have spoken more after meeting you than I have in the last ten years put together. If I keep going like this... Maybe one day I'll be able to move on to something other than secretarial work. Now that I've got a few hundred years of experience under my belt, I should be able to avoid any more major mistakes.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "0126968eb74536a1",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_H_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "0136cc61e3588595",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_19.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh? This... This is a little sudden, I...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0266cf789e3c79fb",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Groundless accusations? Mr. Dongsheng, you seem very sure of yourself.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0284ba6b8f74eb2e",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "02cf8482ae45c184",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "They rely on me, accept me, and long for me to bear witness to their stories.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "03090a14353f7a8f",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill1_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No touching!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "030c61882150b14d",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It would be quite risky for us to bet everything on this one music festival.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "03f0ac303fd6eaac",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Alright... Let's approach it this way, then: \"Your enemy knows you best.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "04d260664d7818cf",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_mimiTomo_ly_ganyu_bedroom_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "A big bed and soft pillow, appropriate lighting, and even a miniature tree for embellishment...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "052622ae485ef35e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "*yawn* ...Greetings, Traveler and Paimon. Uh... what time is it?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "05c367fb519c7320",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ever since Osial attacked the harbor, the Fatui's reputation in Liyue has reached rock bottom.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "071940787bdd0cae",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_greetingMorning.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Morning! What's wrong, is there something stuck in my hair? ...Oh. Please don't stare at my h\u2014hairpiece.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "075e70945ba935a6",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huixin, you don't know how important those words are to me...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "07823e97d09b9186",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But we recently received intel from the Ministry of Civil Affairs that two big-time Treasure Hoarders in Liyue and Mondstadt are planning some big joint operation.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "08020eee375c4c28",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hehe, to think that I'd gain a human friend outside of work. It makes me happier than I could've imagined.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "081156915f476301",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It's alright, Huixin. You can stay in Liyue Harbor and finish your work. Leave the rest to us.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "08391d6eb63c6a44",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_easy_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I must not have been thinking clearly...",
+            "type": "Card"
+        }
+    ],
+    [
+        "0963098060be6866",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_easy_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "This should seal my victory.",
+            "type": "Card"
+        }
+    ],
+    [
+        "099c81f760faaa2d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Eh...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "09b656bff5c49400",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Since last time, I've been thinking a lot about the story Paimon told me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "09e568cd4c3a6700",
+        {
+            "fileName": "English(US)\\VO_freetalk\\VO_ganyu\\vo_dialog_LYAQ206_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The clean-up of the premises, managing the crowds as they exit, making an account of the Rite... There's much that remains to be done. I didn't miss anything, did I?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0bfcb1b1fb848b48",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_invite_easy_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Shall we review the match together?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0c3a051dabaa11ff",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_30.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, that was also my thought.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0ca805dbaebbbe7b",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But if I really spent this vacation with Cloud Retainer, it wouldn't be long before she started asking me \"How has your career developed this year?\" \"Any new crushes one should know about?\"...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0d263131d8a657ff",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_starUp_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I suppose this is the new way of life, then. I'm not going to complain. I'll try to embrace it.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "0d75b559dfe4b398",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Lady Ningguang said this:",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0d7a9d520b22633b",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_chest_open_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Beautiful treasures are a cause for great happiness.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "0d836538b2b4a26f",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_23.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Oh.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0e8f9882ea350389",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackMid_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "0ed545fcf42738bc",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_greetingNight2.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "May Rex Lapis watch over you. May your dreams be peaceful and sweet.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "0f26437ab3973326",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well, the Lantern Rite is the most important festival of the year. Our celebrations must not only be visually spectacular, but also appeal to the tastes of Liyue citizens from all walks of life.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0f51c6e5247afc0c",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_02a_1.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, I... Humans should not remain in the realm of adepti for too long.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "0f7bfca985216e01",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Didn't I tell you the way!? Surely I did!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "10350a4dfdf17328",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackHeavy_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "10940264038f8473",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_mimiTomo_ly_ganyu_restaurant_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ahem... you must have put a lot of effort into finding these blueprints for Rain Calmer, yes?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "113fb66bfce94b6d",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_H_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "11452309f1ca7a91",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Um...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "1187f7fe8bac9e8a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I hope so. Let's go to Fanmu Carpenter's. It should be near Qingce Village.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "120c4d961508478b",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_2_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Please go on, Paimon.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "120fb9059f55a81d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'll take care of the rest.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "13f356c2b29d4d37",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_17.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I disagree. Each new day and each new year is different from those that have come before. How long will you simply let them pass you by?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "14ae08bdece877a0",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If I may be so bold... Cloud Retainer, could it be that this is just your own personal opinion?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "15261e37711d442a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_1_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I've spent too much time in the mountains. The first thing that comes to my mind is the sea.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "16abb6d085ff075f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_7_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'm sorry, I had a meeting with Cloud Retainer, I...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "18cfa81f330d9a7a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I see. It's not uncommon for merchants to be blinded by greed.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "1a4ecd9e163662d3",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The training is much to her signature style... I hope it won't make it seem like she is too unaware of the abilities of others.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "1d6004fc8412b04a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, precisely. As an alternative, you may... try to solve this problem with force once again.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "1e8cfaa93377951d",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_climb_breath_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "1eb452aa18d4f6a8",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#Hello, {NICKNAME}.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "1eb48cde239bef40",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_spice_normal_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'm somewhat of a picky eater, sorry you went to all this trouble...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "1edeb9afc39b89cd",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you're ready, we shall begin the training.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2008cc71da88e90f",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackMid_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "213a38b733085854",
+        {
+            "fileName": "English(US)\\VO_teamJoin\\vo_ganyu_teamJoin_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "As per our contract.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "21be1a0c0690aacb",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_L_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "220ff9b3e88b2f0b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That won't be necessary, Mr. Bolai. Wanyou Boutique's credit is not sufficient to accept orders directly from Yuehai Pavilion.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2261c19809a5eb91",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_friendship_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Let's see... \"I want to understand Ganyu better...\" Wh\u2014What sort of request is that!? I've never done this before... Um, um, um... Okay... I can, ah... run you through my annual review from last year? That should bring you up to speed on me... No good? Oh, okay then...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "22e7461db1116225",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_L_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "233a25c5930d9a65",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well, Second Life's credit has always been excellent, and based on their tax records, their business is thriving...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "24928c34960d27fd",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If it's just a meal... there's no reason for me to decline. It'll be my pleasure, Huixin.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "24d5a59ca9266c78",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Eh...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2653a269288df106",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_pref_gift_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I've named every single doggie living in Liyue. But they're so funny. Some of them still respond even when you call them the completely wrong name. How fascinating is that? Like, if people were to call me \"Bantu,\" how am I supposed to know they're talking to me? No way would I respond.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "2873eb634e072de0",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_morax_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I have absolute faith in Rex Lapis. It was only through his leadership that we were able to repel the monsters and subdue the sea creatures, and thus protect the peace of Liyue. The sight of him protecting the masses, and the memory of our centuries of camaraderie... I shall never forget it.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "2908805735483082",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I disagree. You're a great secretary in your own right.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "292b4aadf524a96d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_20.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No time to waste \u2014 let's get back to work!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2978ed17e7be8677",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Alright, alright, I see.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "298ed8ed87bf480c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh!? Oh\u2014uh, I'm sorry, Cloud Retainer! I\u2014I just remembered there's something I must attend to. I should be going!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2af6b90a33417932",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...In that sense, we're all the same.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2b8653838d635867",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "However, I am an emissary of the Liyue Qixing. My name is Ganyu, secretary at the Yuehai Pavilion, and I have come specifically to meet you.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2bc5a5586dc89618",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_explore_idle_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Should we really be off work this early? There is still a lot left to do...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "2bd71592b6668003",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, my apologies, I don't believe we've been introduced?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2ce0019017f1ab04",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But I sincerely advise that you cease this behavior immediately. It is liable to affect the fine you'll need to pay in the end.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2d0101a460e87e3d",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It may be... a little difficult to make this happen.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2ddf02e2ce3a7e59",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_7_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, I'm ready.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2e1ec4ff35246f2e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well, with Lantern Rite just around the corner, I decided it was a good time to take leave and pay you a visit.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2e9b286c23132170",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Lady Keqing, you saw her too? ...Ahh!!!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2eddf877837f0624",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_18.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Alright, we should be getting back to the harbor as well. We don't want to keep her waiting.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2eea14fa1f6dc122",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Um... I don't remember if my parents ever sang any lullabies to me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2f67e51a3c2e929e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "(Yes, judging from Cloud Retainer's expression, it seems this gift was a success.)",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "2fdc2c664a03d7ea",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_02a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I agree. You possess many qualities similar to those of adepti, despite having none of their blood.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3091192be6af5840",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, that's right! I'm very sorry, everyone. I will take my leave!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "30ae88728297bed1",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "3132898a02cdb144",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I... am also one of the adepti. You can say that I'm an adeptus in training.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "316eeda1c5551f26",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Indeed, we wouldn't have found out if it weren't for Mr. Bolai's aid.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "318a90b7f5e3fd38",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I\u2014I put on weight very easily, and...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "325c759bad4faf66",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, that's not what I meant. What I'm trying to say is that everything should be earned through hard work and earnest living...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3280c2ca8ad9e90e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Haha, that was actually a very good impression of Cloud Retainer, Paimon.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3283771b311979a0",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill3_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "For Rex Lapis!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "328d845c0f3db660",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah! P\u2014Please, no, don't do that to me...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "329b510bd539d7a4",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "A\u2014Alright...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "32a5d5deb49d9d46",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_10_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Agreed. How about we go to Second Life and... have a nice chat with the owner?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "32c922ae5fa35a6c",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3358b363add34a2b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But... I'm unwelcome in Liyue Harbor. As an adeptus, I...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "336e17bce0b592f2",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I delivered the letter and came back to Liyue Harbor only to discover that I had been replaced by Baiwen, Baixiao, and Baishi...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "33aab6dc355bf4b0",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Once I was sure that they were going to be okay, I'd slip away without a sound...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3493090ecc4dacbc",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I misjudged the situation and offended you. My apologies.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "360372b62e64f57b",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_03a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hello, traveler. I'm surprised you still remember my name.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "364ed18b997a4396",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If I'm proven right, I'll return to Jueyun Karst once again.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "36669c6121514be1",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_1_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Let's go for a walk in the port.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "36aa6648e05ee571",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I heard that you've encountered some problems, and came to see if I could be of some help.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "36bb3e9e4bcd825c",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_25.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well... uh, let's save that conversation for another day. You say that you are here looking for Glaze Lilies?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "36cfa1b95b3c16ff",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_hello_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#Hello, {NICKNAME}.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "37e52aaff64f807e",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_23.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, I... I am a mix of human and Qilin. Adeptus blood flows through my veins. I fought for Rex Lapis and the city of Liyue during the Archon War.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "37f2cf6984d5e244",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_chest_open_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "There's nothing wrong with reaping a reward every now and then.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "38cbe0b9de4734de",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"Witness\"...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "393aba99586baaee",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_climb_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "39d4f3887c537829",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_02a_2.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Though in the past, I've been reluctant to grow vegetables... I always worried that I wouldn't be able to control my appetite and I'd end up eating them all in one sitting...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3b25550c8eb007e1",
+        {
+            "fileName": "English(US)\\VO_spice\\vo_ganyu_spice_event_normal_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'm somewhat of a picky eater, sorry you went to all this trouble...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3b9f7360d3076c53",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "She invites you to her palace in the sky.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3c92217bd6dfdff9",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, she works at Yuehai Pavilion, and she's my junior. How can I help her?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3d3ed1475e1c6e36",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_explore_idle_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It's so nice to de-stress.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "3e57da02f621601b",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_hard_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It's still anyone's game...",
+            "type": "Card"
+        }
+    ],
+    [
+        "3e6ed4dc7af7aada",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, understood.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3ea083263446b701",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hehe... Let's keep moving towards Master Lu's warehouse. Our goal is to get the invoice, after all.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "3ea268da2c7fd850",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Though it is heartbreaking to lose a kindred spirit, life goes on... because there are new friends waiting for you further down the road.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "402f5f72806c934d",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "My apologies, you who have returned from Jueyun Karst... I am duty-bound, and cannot extend my courtesy to you in full.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4093b3a03635325e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_17.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Here's what I've drafted so far. Anything else you want to add?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "409984e235698673",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill3_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "This is long overdue.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "40eb738edfce0b3d",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_night_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#Good night to you as well, {NICKNAME}.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "413415de986775a3",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Besides, I can already feel their malicious intentions. Consider it...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4187b28cc9a3014a",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But the tune was allegedly so wonderful that the drowning man forgot about everything else, even his own impending death, and only came to his senses after being brought to shore...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "429de8e1a7b62ce4",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_draw_appear.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Copy that! Here is a draft Service Agreement for your review and consideration. Effective immediately, if all is in order... Ah! Wait a sec, wait a sec, I forgot to sign it... Gan... Yu... There. Right. Now... What was it you needed me to do for you exactly?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "431d21facc35f053",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ205_4_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "With the blood of the Qilin, I guard you against evil.",
+            "type": "DungeonReminder"
+        }
+    ],
+    [
+        "43c13c2c4cdb1248",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill1_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Access denied.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "43fce091920d3989",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_19.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Never mind. I promised I'd help Mr. Dvorak, and now that I've made the contract, I can't be having second thoughts.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "44421e9d4ff6e03a",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Whenever my duties take me near Yujing Terrace these days, I draw the windows to block my view of the gardens.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4475e2d3db8971f6",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Then it would only be proper for me to offer you something in return! Shall I take you out... for a meal? In a restaurant?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4523e7b1e39ad300",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#As long as I clearly lay out the pros and cons, and highlight the key points of the proposal... Given that Ping and {NICKNAME} have both given the idea their blessing, I'm confident the Qixing will be sure to give it serious consideration.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4589927e6511fc88",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_mimiTomo_ly_ganyu_bedroom_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "One can certainly rest well in a room like this.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "458d5923b91b51a2",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_06b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah... Please don't also start calling me that...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "47ad0e0c799b174d",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ205_4_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Exercise caution! I fear that the god's power has reached its peak...",
+            "type": "DungeonReminder"
+        }
+    ],
+    [
+        "47c1ac31371a37f0",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I appreciate your kindness but there's no need for your words of comfort.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "49ff099ad56a3c1f",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_beidou_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Recently, everyone in Yujing Terrace has been saying nasty things about The Crux Fleet. But in my personal opinion, Beidou's contribution to Liyue Harbor goes far beyond what those miserable, rumor-loving heathens could even contemplate! ...Oops! I'm sorry, I... I'm not quite sure how that one slipped out...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "4a483e80e57af199",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh? If there's anything I can help you with, just tell me straight away. No need to hesitate.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4ade3ca7f90dec10",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_fly_start_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "4be0f18f29f8b245",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Sure enough, Mr. Bolai was right.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4c367733e3743a09",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you want to release a Xiao Lantern, come and find us anytime.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4cf17735c34462f8",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_33.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you have the time, would you join me for this search?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4d0086106d3522cf",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What? Really!? Phew!!! Thank goodness...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4d3ce780168d2e64",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well, when I think about my time here, I've spent most of it behind a desk, filing documents.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4d3ee9f0ffbbde68",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_10_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I promised to help you and I'll keep my word. Nothing to worry about.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4d7082e872e0a79d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "We just taught you a lesson, but clearly, you weren't paying attention.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4e1fbfb9c8246c03",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Pitting your opponent against their enemies and watching them drag each other down from an advantageous position.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4e49cd23566c782c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uh... Shenhe, and the Conqueror of Demons...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4f0c47b3b01d4943",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "A person of your age should focus on work and family, instead of chasing after fairytales.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4f4beb23d808c5a9",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Happy Lantern Rite. Oh! I... I just remembered that I have some, uh... work to do at Yuehai Pavilion that I need to discuss with Yanfei. I haven't been able to find a chance until now...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "4faadb2847ae90a8",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_morning_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Whether it's an ad-hoc assignment or any other task, I'm free to assist...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "501eb6a133b37a23",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ping has helped countless people, and will guide many others in the years to come. And all to whom she extends a helping hand become her friends. People she can admire flowers and discuss music with.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5029d323cfa08239",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, that's right.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "503ac5a0d73020bf",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hehehe, you're very direct, Master Lu. I will be plain \u2014 we're looking for proof that Dongsheng from Second Life has been evading taxation.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "50e2067359ab4ae6",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_10a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#\"I wish to meet {F#her}{M#him}.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "510c550e98b28aa7",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Sure... but I may not be able to offer any practical advice if our topic of discussion is not work-related.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5181547c1b572e5c",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_mimiTomo_ly_ganyu_restaurant_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That smell... the fragrance of true Liyue cuisine.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "519507fdb1409e66",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "In that case...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "54e1bfd181794958",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_2_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "She doesn't like to travel, so in the past, it's always been the other adepti who come to visit her during the festivals...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "555c224c1ff3614e",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "He's already waiting for me. Come along if you're interested.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5662e07377c2ba32",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Even if I've really been supplanted, I wish to fight for my place...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5685ae76ecb36312",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "With the major changes in Liyue recently, the Ministry of Civil Affairs and the Millelith already have their hands full. They don't have any time to investigate rumors about Treasure Hoarder activity.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5686165dca756cf0",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Conqueror of Demons.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "56b2b7ed29fe7152",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_idle_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "57dbdbfed47f1b24",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_idle_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "58bab69f11ddfdbc",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Either way, if this part of the story is true, then the rescuer has to have been an adeptus.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "593105f2e0b53b0e",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_sprint_start_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Next on the agenda...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "5ad57db2e3d8f07a",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_less30_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Did I miscalculate?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "5b15d2889a18e9e4",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Despite how dangerous that makes it, all the Treasure Hoarders can think about is what kinds of treasure could be inside...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5b7484fcc7f140ab",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_34.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You're well-known to many of the adepti, and respected among the people. I'll feel much more at ease with your company.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5c25ac2997491412",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_xiangling_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Xiangling is a celebrity! Um, but... I try to avoid her restaurant. Just... because. No reason. ...Okay, fine. It's not a big secret anyway. It's because you can smell her cooking all the way from the other end of the street. And once you get a whiff, I mean, that's it. You're gone. Next thing you know, you're ordering your second, maybe third round... You just can't control it. Even though I only eat the vegetarian dishes, I don't know what it is. But that is not a road I want to go down again... Not after...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "5c489306284742d1",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But, um... where are Moon Carver and Mountain Shaper?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5c660bc7d8800ade",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Why did you come here?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5cbc971129752015",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Thank you, everyone.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5cbde517cefbd15b",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_27.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I know how important your quest to get in touch with your roots must be to you, because I've been there myself before... trying to find out where I belonged...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5d0057e2bf8c4c90",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Uncle Tian is a member of the Liyue Qixing, the \"Tianshu.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5d3015e82a7801b3",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5d4e82798c5367b8",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_jump_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "5dafab22d3c81f8f",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Then... thank you in advance. Wait, what is that saying again? \"If you insist\"?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5dceca6d3cf7176d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_02b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hardships are a fact of life, both for the adepti and humans alike.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5e6aa324b3983a16",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_31.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I can probably get through everything in... two days. As long as I don't sleep.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "5f56cf38e0948016",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_starUp_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Could we maybe... find a peaceful resolution instead...? Never mind, doesn't matter...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "5fa9909a4bbb9d67",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Eh... You've completely forgotten my name, haven't you?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "607ca4cda81a2684",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_03b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"Yangu\"? Wh\u2014Who's that?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "60f1f0b552c47a17",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_17.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Of the current Seven Archons, the youngest is Sumeru's God of Dendro. She is merely five hundred years old, whereas Rex Lapis was more than six thousand years old at the time of his passing.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "60f63fd985e5ab80",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "This trial was prepared by Cloud Retainer. Its goal is to help me feel like an adeptus again.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "611428e4bb6f2d69",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'd like to repay you when I'm done with the work at hand. What would you say if I... accompanied you on one of your trips?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "612574ebde569e93",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But my strict vegetarian diet is completely different from everyone else's. And I don't really share their interest in shopping or lively forms of entertainment.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6132b33427529c99",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_05a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Agreed! So I really do like it here.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "614cd1297c5f4575",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_25.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Thanks. It was just that I had a few initial thoughts when I heard your story. For instance... I wonder if this lady your ancestor met might have been an adeptus. What do you think?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "623d4cf665efd763",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'd like to earnestly thank you, Traveler. If it weren't for your companionship, I would still be embroiled in my inner conflict right now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "624f60fd88d89c8d",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But what can I do? It's hard to change your habits when they've been that way for thousands of years...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "62c830b679d70801",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, I'm fine, don't worry about me. Let's discuss the matter at hand.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "62e85da0b97ffafe",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_weather_sunny_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, the air is just right.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "6328c91249a327fa",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "How's your training going, Shenhe? Have you made any plans for Lantern Rite? We could spend it together in Liyue Harbor, if you'd like?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "63b1689d09002e5c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "642b1f12cb3fd42f",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I can make arrangements right away!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "64433ad0966a29ed",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Anyway! I'll go, uh... fetch some seeds. I'll make sure they're the very best.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "64c64253419c2058",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_sprint_end_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Healthy body, healthy mind...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "64d9b6fabb4985f7",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "We'll be forced to use harsher methods.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "64db54aeb3822c7e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Although I met Guizhong a few times, I never knew anything of this particular story...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "64e56bef54fc30d8",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well then, please look over this tax record. We'll review Second Life's credit based on your observations.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6530bfaec74ab614",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_2_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, I think that's fair to say...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6533f5c3d6e939d5",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The clouds fold and unfold, the tide ebbs and flows. It was meant to be.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "65492057c101b334",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_xiao_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "He seems like a bit of an outsider, socially. Probably just his personality... I can understand that, to be honest, but I'm not really about to try and get close to him. I mean... all the people he's ever agreed to team up with are no longer with us...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "6580de4cadd684ce",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, that's not necessary. No need to be so serious. It was nothing, really.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6581dcc70029a131",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes. Now that the spirit of Rex Lapis has returned to the heavens, only Barbatos of Mondstadt remains of the first Seven.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "662709d5813c394f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, I shouldn't... I have left the human world. Please contact the Yuehai Pavilion regarding matters concerning the commercial port.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "66788933f5a4e5fb",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_09b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#\"Invite {F#her}{M#him} to come here.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "66aad25e58589070",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I figured that as Uncle Tian's daughter, you'd naturally grasp your father's strategies.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "66aec23a07fb2661",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Let's start with Wanyou Boutique. The owner's name is... Bolai, isn't it?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "673d11d7e6be676b",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ206_6_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Does Her Eminence the Yuheng have anything to add?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "675074e7cb443630",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_18.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Regardless, I'll go back and see for myself.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "67f88c4775e32198",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_L_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "684a30de8d980b2c",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_endOfGame_fail_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I should probably get back to work...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "69ed8198195c1c69",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The sound of the waves in this familiar port...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6ac988a04e6ff391",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_climb_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "6ad942eb43180810",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So, I decided to come to the Adventurers' Guild to post a commission.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6c56ee83b433d55b",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_less30_teammate_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uh...  \"Don't try to rush your enemy\"!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "6cd8e85103ac38dd",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "6ceb8f4e31830991",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_close.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I finished all my assignments early today. ...O\u2014Overtime? I understand. I'll get right on the case.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "6e44da15b40e3843",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So, what can you tell me about the problem?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6ee6532111cd195e",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_yelan_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Even though Ms. Yelan is absent from work for the majority of the year, I'm sure Lady Ningguang must have her reasons for making exceptions for her. Of course, it wouldn't be my place to ask, so I don't know the details of their arrangement. I remember seeing her one day on my way back to Yuehai Pavilion, she was having breakfast with a group of people \u2014 they were all talking and laughing, eating, drinking tea... I must admit, I found myself feeling a little envious in that moment.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "6f1847ce233233b0",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What brings you here, Yaoyao?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "6f37904093e36f6b",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_jump_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "6f80ae7cca00a138",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_29.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you would excuse me, I should return to my work now. Good luck.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "70da618c25310a91",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_29.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But if it's a person you're looking for, then I just might be able to help.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7167d4a7f9a29402",
+        {
+            "fileName": "English(US)\\VO_teamJoin\\vo_ganyu_teamJoin_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Time to begin work?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "722dae687f8a68d6",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_jump_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "72a1c13a303022de",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_07a_2.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Still, I... I think it would be best to share them with you. You know, first rule of gardening \u2014 grow together, eat together!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "72d4c62761735f7d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Naturally. I've dealt with similar issues hundreds of times. Give me a moment to consider the best approach in this scenario...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "73947f9fc8a45ada",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_spice_pref_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Such authentic delicacies... Oh no! I think I might have eaten too much...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "7446ba8e77938e6a",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_27.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Indeed, I did. I know this tradition well. In fact, I sang a local Liyue ballad to it.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "74529c893ec4d84d",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Are you searching for Glaze Lilies?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "74d60053f71e397e",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_keqing_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I cannot stand her disrespectful attitude towards Rex Lapis! But he says to me, \"Ganyu, this is just the kind of person Liyue needs in this day and age.\" I guess I'm not smart enough, because I simply do not understand what he means by that. I think I need more life experience to become wise enough to comprehend his words.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "75346bcc9acd9d94",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Should we need to place such an order, we would certainly go to Second Life instead.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7557347246c2a446",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_xingqiu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You mean the boy in the blue jacket from the Feiyun Commerce Guild? He's nothing like his father and brother, doesn't seem to care about the textile business at all. Seems it's because as far as he's concerned, there are more important things for him to be doing. Of course, I'm merely speculating...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "773334baf928fbc6",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "(Lady Keqing is trying to help me!)",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "778713d172d667f8",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_hello_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you have any outstanding work, feel free to delegate it to me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "77a29e9d27f57b09",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But I've always regarded it as nothing more than the source of my loneliness.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "77e56d2c0061593f",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_invite_hard_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What a tough game... Whew, I'm feeling a little tired now...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "78a23bf26520f3b3",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_weather_heavyRain_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It is something of a luxury, but I love listening to the rain from the courtyard.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "78e5ab78bfea788c",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "In my spare time, I particularly enjoy taking strolls outside. It's so quiet and peaceful.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "791e7727124d0eaf",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_yanfei_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, Yanfei... Even back when she was an innocent little girl, she would tell me that \"you have to keep your promises to live a happy life.\" Now, she's grown up to be a beautiful, graceful, and highly successful young woman.\\nAlthough the work of a legal adviser is complicated, she always seems so carefree. This puts my mind at ease.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "7971b8366636f9b6",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_L_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "79c497de483331f6",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh? Is there anything you'd like to share with us, Mr. Bolai?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7a1d556c02a5717f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uncle Tian, please... A person of your standing should really stop calling me \"Lady Ganyu\"...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7a2ba78cc8eb67bf",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_annoyed.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I don't understand why people insist on going all out to try and prove how their existence is more valuable than everyone else's. To exist in the first place is a beautiful thing, and that's enough... isn't it?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "7a60eb03e8a364be",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uh, let's cross that bridge when we come to it, shall we...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7ac05833725839ef",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackHeavy_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "7b34349ddec5b812",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I also feel... that he's telling the truth.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7b43826fdbc9ecff",
+        {
+            "fileName": "English(US)\\VO_spice\\vo_ganyu_spice_event_dislike_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I appreciate the thought, but... meat's not really my thing.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7b66b58709b001ef",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well, I used to be so busy. I haven't taken a stroll around here in a long time.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7bdd926a23a7e604",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_18.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "This means that Liyue had been under Rex Lapis' rule from the moment it was first founded 3,700 years ago. The city has never had to bid farewell to its deity...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7cf5437eb779404a",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes. My thoughts precisely.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7d3ab94fe976f8f3",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_idle.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "My job is to honor my contract with Rex Lapis by looking out for the interests of all living things in Liyue.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "7d9ec84b3f2b442c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I noticed Cloud Retainer was here for quite a while. Did she say anything about... m\u2014me? When I was young?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7ea9a60709367450",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_10b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Exactly.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7ebb67f6ad4bf68c",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...My intuition as the secretary of the Qixing.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7f3a2005b4a762d5",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_20.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Traveler, Paimon, let's set off for Cloud Retainer's abode.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "7fd99b2a4c7274d7",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Please excuse me for a moment. I think I'll leave the gift in her abode.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8103873bf6f472f1",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, speaking of Cloud Retainer, when did you see her last?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8160e57ac96933f2",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I've completed your trial.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8191e43b2b571f1c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Thanks. Hope to see you again soon.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8250724db9885d4b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I didn't know that you think so highly of me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "826ae159bb499d76",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_11b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"At the Jade Chamber, together, we shall snip every one of these entwining dark threads.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "83799e5f640914a5",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So, what made you change your mind?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "84421c634c151637",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "8448d4ef6a75054f",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_pref_foodDislike.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Qilins are strict vegetarians, so please do not take offense when I decline meat dishes. Yes, that includes your vegetable fritters since they have been fried in animal fat. Thanks, but I can't. I'm afraid I really can't. I don't mean to argue, it's just I have a keen sense of smell, so I know how they've been cooked.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "844dda4f16a90dbe",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_09a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ahh... Okay... Duly noted!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "853460248e7f985e",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ205_4_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "This will hurt a little... Please bear with us!",
+            "type": "DungeonReminder"
+        }
+    ],
+    [
+        "861556bb5458f46c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Umm... if we set off now, we could head to Mt. Aocang and ask her about it.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8621d04cd8bc463e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Thank you. You're so kind and considerate... I've always seen that in you.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "87c13a60fad69317",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_standbyShow_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "88212b5a4b7164f2",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_chest_open_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Perhaps whoever left these behind was... also fulfilling a contract?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "8828be7a6df66115",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ehehe... That's right. That's why I can't disappoint you.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "88b9416ab876f1e2",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But being questioned by him made me realize that I...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "891bd28c1849608f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You've made me realize that I share another connection with the people of Liyue Harbor, apart from my contract with Rex Lapis.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "893bb532d540ea34",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_greetingNight.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Look how brightly lit the city is at night! Amazing. I wonder what it's like for all the people down there... Hmm? Umm... No thanks, I think I'll pass on the night market. Sorry...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "893fa08f8d3bbd6f",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "We were just discussing the Treasure Hoarders.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "89a2f3226ac1cc41",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh, Lady Keqing? I didn't expect to see you here.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "89e3257c62f8e1b4",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I\u2014It's not his behavior. The things he said... He was right.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8a2d5766730b93d5",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_easy_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "My fault for getting careless...",
+            "type": "Card"
+        }
+    ],
+    [
+        "8ab493e3f1ede832",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "However, Lady Ningguang urged me to take a proper vacation. She said that there's nothing so urgent that it can't wait, and that this festival is a time to reconnect with friends and family...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8b3d41c6a71c427b",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_pref_birthday.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Many happy returns! After all the times you've looked out for me, I didn't even remember to get you a gift \u2014 whoops! Silly me, I... What's that behind my back? Ah. You saw it then. It's a failed attempt at making a Qingxin flower cake... I wanted it to be perfect, but... Oh, you think it tastes good? Do you really?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "8b417145bbf71225",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_18.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Perfect, then we'll leave it as-is. I'll go make an official copy.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8bc60340f6147686",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_22.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Uh, I\u2014I will.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8d8c37b8ebe748b8",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Master Lu, we've just come to see you and ask you some questions.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8da608b94897fb0c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Someone as perceptive and wise as Ping will surely have come to understand and embrace this.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8db50713fb6613bf",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Many in Liyue probably view me as a non-human... and they are right, in the sense that I never could connect with humans' artistic expression and their sentiments. So I haven't been able to integrate into their community, and be a part of their lives.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8dc5a767b322db5a",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I think it's beautiful here.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8f0cd06c471d3a6a",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_mimiTomo_ly_ganyu_restaurant_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Your liking for Liyue also signifies your approval of my work... Thank you.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "8f87c912352a5d10",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I must admit, I didn't expect you to come up with such a silly excuse.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9021934dc63339b3",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_06a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes... I can handle overtime, but not that...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "90e3a57270375e0f",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The Iridescence Tour is relatively unknown in Liyue. It's difficult to predict how a brand-new show will be received.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "90f1bb4b6f5a1704",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_09a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#\"Invite {F#her}{M#him} to come here.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "90f74ca67a626e07",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_22.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But as an adeptus... I think I will eventually come to grips with reality. Since Rex Lapis has passed, the time of Liyue's contract with the gods and adepti has now reached its end.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "922038b824e2b921",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_20.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9235f4caf5fd222e",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It's been a long time since you last spoke with Ping. And Liyue Harbor is always decorated so beautifully during the festival period...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9241094d91ea1cdc",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "At least, that's the view I held in the past. Only more recently did I start to realize that... the only barriers are ones that I have erected with my imagination.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "927dc43a3261f3fa",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No, it's nothing work-related. I wanted to ask about... um, something personal. Is that okay?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "939b63e5a084595a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "We won't cause a serious diplomatic crisis by getting into some small scuffle with the Fatui within our borders. You need not worry.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "93a1a10a16d29328",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_leave_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Goodbye... Ha... I'm getting sleepy...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "94284790ffb43cbc",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Therefore, we will not replace or cancel any of our preexisting program. However... I will submit a proposal requesting to put the Iridescence Tour special performance as the final act of this year's festivities.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "94a848f7a7880b40",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_21.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What...!? Cloud Retainer? Y\u2014You were still listening?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "956e2c86053482a2",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But I'm sure that if I grow them together with you, I'll definitely be able to control myself!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "962e469899fcb6c8",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_18.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Um... Cloud Retainer spends most of her days studying mechanisms in her abode. She's on her own so much of the time that the moment she has someone to chat with, she just...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "964374adada9a0fe",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_die_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "My contract goes... unfulfilled...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "967429f64b005e93",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Thank you for shining a light on this case, Mr. Bolai.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "96971097afb4c074",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I thought maybe we could plant some flowers together. Or some other plants, like... vegetables...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9697d071f4da3769",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_pref_gift_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Qingxin flower petals are pretty tasty. Incredibly tasty, actually. The only reason I don't plant any at Yujing Terrace is because they taste so good that I worry I wouldn't be able to control myself... Huh? Bitter? Yes, they are... Isn't that what they're supposed to taste like?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "978e52aa44ac7a3a",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...I've been in Liyue Harbor for so long now that I'm just not as familiar with the adepti anymore. If there's anything we want to know about them, she's the best person to ask.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9872f2e4a95bbcdd",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I didn't mean to interrupt you. Please accept my profuse apologies.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "98c79ba659c418ca",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No, I'm aware of your strength, Traveler. The power hidden within you is not inferior to mine.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9a13502f3072b733",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_1_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I suppose you have a point. It would be quite impolite of me to leave the two of you now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9ab868003f5e359c",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Cloud Retainer!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9b0cc898bfa9c0ee",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_fly_start_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "9c3f5d7a63155eb3",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_close2.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Um, so, yeah, uh, I was, uh... I was wondering what your opinion is on my work so far? Would you say I'm... more of a Common Chest or more of a Luxurious Chest? I\u2014It's fine. I\u2014I can, uh... I can take it.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "9d1d5093d3daa703",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No, it's quite alright. I just haven't processed my emotions yet.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9e35c1a867ad4701",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Now I just need to take some time to give this proposal some polish...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9e473ca57e5ca53d",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yujing Terrace is where Rex Lapis parted from this world. If I strolled through those lonely gardens now, I wouldn't be able to bear it.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9e4b6a7a1de8be26",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackMid_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "9ee736f44084fa53",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What's your choice then?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9f485411ecc35cbe",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "CLOUD RE\u2014TAI\u2014NER!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "9f75457ff377506b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So that's what happened. I see.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a0a467a04d05ce10",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_friendship_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I've had a long, hard think, and I've realized that so long as it's for a work-related matter, there's really nothing for me to be embarrassed about. So if you really need to understand me more... This, uh, hairpiece... it's actually my horns. That's right. I'm part illuminated beast, qilin to be exact. Okay, so, now we've got that out the way... Please sign this non-disclosure agreement for me. And don't tell a soul.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "a13ce48d34c63a6a",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Cloud Retainer, you are getting competitive again...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a1b31baa91a16489",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hehe. That's good.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a2168e3eaaaa5502",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, well, I met you at that time as an emissary of the Tianquan. But now, I am simply out on a stroll to see the flowers.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a23958956a86cded",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_24.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "After the war ended, I signed a contract with Rex Lapis and took the position as secretary for the Qixing. I've continued those duties to this very day.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a26b63a7df1e49d6",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Dongsheng bought some furniture from you at the beginning of the year. Do you still have the invoice or any other record of that transaction?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a28604a83bd05dda",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No loss can ever be undone, but there is always much that can still be gained.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a2a0a3a4799bf4c9",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It would be unfair to other people if you got everything you wanted for no reason.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a2f817533e4ddba8",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_20.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Not at all. Every second counts for a complex proposal such as this. I will inform the Qixing of this development immediately... please give me a moment to pass on the message.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a32b9f0e7db9344c",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Please divide the matters at hand into government affairs, business affairs, and civil affairs. Mark out the tasks that haven't been started and those that are in progress...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a3772305edea214d",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Our... Uh... Our exchange only represents my personal views. If you wish it so, you can file a complaint to the Ministry of Civil Affairs.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a4558b20283b326e",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ehehe. That's so kind of you all, given we've only met once.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a466e7274b22bf40",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, a\u2014alright...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a589b63ce68d8fac",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "We've completed the task. What do you think?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a5c19c74de2fffdc",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_H_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "a6435d3c8d8b2f5a",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I will leave Mr. Dvorak in your capable hands. Cloud Retainer, Ping, we will be off for now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a65e526c83466ab6",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Um... well, I'd get them to the shore, and then I'd probably hide behind a tree and watch them for a while...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a692ff9465c689f9",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Alright, I'll go with you to Liyue Harbor. That said, I still trust my initial judgment.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a6de3bed98d61d08",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You two... I did not expect to meet you here. Is it official or private affairs that bring you here?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "a6eb888688b1fdfe",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_H_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I can fix this!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "a7dafde5609ddc15",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_yaoyao_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yaoyao... Someone I know at the Ministry of Civil Affairs tasked me with keeping an eye on her in the city, making sure she doesn't try and sneak aboard The Crux... Oh, you want to know what the Ministry of Civil Affairs does? ...Who knows, am I right!? Heh... Who knows what they do? ...Not me...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "a8bcf51ecbc171e9",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_morning_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#Oh...! I forgot to say... good morning, {NICKNAME}!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ab9f659160727351",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Anyway, um... Thanks so much, once again!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "abf4520da220a909",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, uh... it's nothing though, just... as you can see, there's a lot going on during the Lantern Rite, and I was originally supposed to head back to Yujing Terrace to assist with the preparations...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ac21a8eb119a60d8",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_7_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I... I have nothing to hide.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "acc599e3aa34466c",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_sprint_start_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "acea2b01f00f4f7b",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Even though we come from different backgrounds, and have different stories to tell... when it comes down to the most common things that we see and experience around us each day in the city...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ad82ff502a68b399",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_explore_idle_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you lie on the grass, you can feel the heartbeat of the world.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "ae2d85a2b2cec117",
+        {
+            "fileName": "English(US)\\VO_spice\\vo_ganyu_spice_event_pref_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Such authentic delicacies... Oh no! I think I might have eaten too much...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ae5fe6428ec354eb",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I've been in Liyue Harbor for quite a long time now, and I've witnessed many farewells along the way. So I, too, am well acquainted with the pain of the passing of a loved one.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "aebab567515647e3",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_friendship_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Even though I'm part qilin, I'm still part human, too. Still, all these years I've been asking myself the same question: Do I really belong in the human world? Maybe I'm just like a Dendro Slime hiding in the earth, burying myself in numbers and reports in order to escape reality.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "aef12e7ac5f7a150",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "afa8e0b211db214c",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_climb_breath_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "b02bc1f446c960a1",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "They must be plotting something against Liyue Harbor.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b04aafa964d98e43",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_less30_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'm a little low on energy.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "b0588263dfb33ef1",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Sorry to interrupt your conversation... I was in the area buying a few things and I heard the disturbance, so I felt compelled to come take a look...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b0d2326f404e2fb5",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_19.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "*sigh* Once the Guili Assembly, now the Guili Plains...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b0d51303d294e862",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_35.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Okay, then let's meet back here in three days.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b1d9eea153a9595e",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah! That reminds me, how was your visit to the Jade Chamber?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b2393b87d7a24a95",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Haven't I made myself clear? Mr. Dongsheng, you've already been proven guilty of tax evasion. I just came here to see if you'd confess.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b2eb2329aa131e34",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_starUp_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I remember reading in an ancient text that \"Only when days be darker than the darkest night, may a qilin be compelled to fight.\" That's a massive exaggeration, but... should the time come for battle, and should you need me, then I will give it every ounce of my strength.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "b326c381bf9cdad5",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Um... Understood.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b32c4f9981f54a0f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh? Mr. Dongsheng, I'd like to hear a little more about this \"dirty laundry.\" Would you care to elaborate?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b3659ef1e787031b",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh!?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b3c3183f793cbc4e",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Indeed, it has been a while, Huixin. I'm flattered, but aren't you exaggerating a little?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b419d79369efda4f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Dear... pilgrim, you shouldn't jump to conclusions. Adepti don't help every pilgrim for free.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b43e24c2477a1417",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "As far as I'm aware, Cloud Retainer isn't the most musically gifted... Still, we can't completely rule her out just yet.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b48f8b0392090135",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So, this all started because we were trying to help Mr. Dvorak find the adeptus who saved his ancestor's life...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b4a49afd6e0cba1a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, yes, there's one more thing.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b4da9bbb123eb57d",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_less30_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'm just way out of practice.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "b4ed0c5123bec7f0",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hehe, don't worry. I'm always happy to help a junior colleague from Yuehai Pavilion.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b536df4415188138",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_invite_hard_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Understood. This time... I won't fall asleep.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b5ae723d7470b32c",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hmm, alright. We dare not refuse such generosity.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b603e42ea794b36b",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_freetalk_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "*yawn* Why do I feel so tired now...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b62a8e0a7a07279c",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_weather_heavyRain_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh good! I was just thinking that the Silk Flowers at the Feiyun Commerce Guild needed watering. The transport co-ordinators will probably moan about the muddy mountain roads again, though...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "b66a22b3010efa00",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, I see.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b6adeaafb56743b9",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No, uh... you don't understand, I...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b7c937d67420f12f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_10_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Look, it's the invoice for the transaction between Second Life and Fanmu Carpenter's. We've brought it back.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b89dfb08caa3c5c3",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "R\u2014Right... I didn't dare to say a word just now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b8c45b9f90c81bc2",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_2_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Since she's not here... I guess the next step is to check all the other adepti abodes, one by one.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b8c789b4a066913b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "My adepti blood makes me unwelcome in Liyue Harbor.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b8ce10d3f4df3b31",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No, it's not like that... I'm just not very good at explaining things, and I also find it really awkward accepting other people's gratitude...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "b9cb4baaf3950e09",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_invite_easy_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I must have zoned out...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ba1841691695224a",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But I have with me a letter from Lady Ningguang. She extends a formal invitation to you in her capacity as Tianquan.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ba36290dbc15576f",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_morning_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Where are you off to today, is it far? My schedule is actually free right now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ba6083f098ff22f4",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ206_6_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So concludes the words of her Eminence, the Tianquan.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ba68b22bd9c43f7a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The training's not over yet. The part prepared by Cloud Retainer is only the first trial.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bad4c7841a3fc278",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "With pleasure. Solving the Qixing's problems has always been in my job description.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bc64680b39538ad2",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_hard_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Time to change my strategy...",
+            "type": "Card"
+        }
+    ],
+    [
+        "bc7a71eae8218f15",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Besides that... I do feel better getting some of this off my chest. So... thank you for being here and listening to me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bd6d85fc92748e8f",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#Happy Lantern Rite, {NICKNAME}. How have you been recently?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bd7a5538729fe010",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_endOfGame_win_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I should draft a report about this experience.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bd8d8c1ce3d434a4",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_hard_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It all comes down to knowing the rules.",
+            "type": "Card"
+        }
+    ],
+    [
+        "bded76a537951a07",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I just remember being taken care of by you when I was young. Once the Archon War came to an end, I stayed behind in Liyue Harbor to honor my contract.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "be5e1c9117eefef7",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_climb_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "be61f8ec4b248dee",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_07b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Great! And, uh... you'll help me plant them too, right...? First rule of gardening \u2014 grow together, eat together!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bf1252ea78f73c6a",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill3_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Glaze over!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "bf1662b6e2156521",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Do you mean... Ping might find the topic too distressing?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "bf6bcdb6f5ddefdf",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_2_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I can't believe it... Cloud Retainer is not here.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c05fc2d1e91ff5d1",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Why don't you come with us?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c06d7c41cd2b4323",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "c121dca1022ea71a",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_climb_breath_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "c126347c25f79049",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_10b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#\"I wish to meet {F#her}{M#him}.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c1321e479ba3ed22",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_jump_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "c182e7ad422f336c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hmm...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c273f3e4ec0d7d54",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_spice_dislike_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I appreciate the thought, but... meat's not really my thing.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "c30ee48486154b53",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "In essence, someone rescued a drowning man and performed some music. If that were all there was to it, it could have been many people \u2014 human or adeptus.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c79ed096337a724d",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Perhaps there was adeptal power at work in that music that he, as a mortal, could not perceive. Or perhaps he sensed a power surrounding him, but lacked the words to describe it, not knowing where it came from.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c876281582507e02",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_L_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ngh... Didn't see that coming.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "c88ae48928dad418",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "With pleasure.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c97f0628f3ba5571",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Perhaps that mission of mine was just a pretext to remove me. Since the Qixing gave me a chance to leave with dignity, I decided to be tactful, as well.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c990c57fb00732c6",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_02a_1.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes, indeed... You could say it's my greatest hobby... aside from work.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "c9d404a42fe4f848",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...It's true that I've witnessed thousands of years of Liyue Harbor's history. All the changes it's gone through, the stories of its people...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ca160b33084f8256",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_invite_hard_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I should head back to work now...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "caa1356625f730db",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ahem... Allow me to introduce Uncle Tian, he is...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cb06792c101d3bb8",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The songs of the sailors down at the docks, the little ditties that the vendors call out in front of their beloved shops, the tunes of folk artists performing on the streets...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cb432418b094f7e6",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I was getting really worried... Once she gets talking to people, she tends to go off on all sorts of tangents... so I was worried she might have bored you with some stories about me, heh...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cb447f99e3e8f38f",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_invite_easy_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Sure. Thankfully, I'm off the clock right now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cbd8f2b028637825",
+        {
+            "fileName": "English(US)\\VO_teamJoin\\vo_ganyu_teamJoin_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What are my orders?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "cc4df3730a939996",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, I was just fulfilling my duties as the Qixing's secretary. It's nothing worthy of your gratitude.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cc9b969fb5ae0991",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_fly_start_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "cda9e565db196d9c",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_06b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "What the\u2014 Don't you start that as well!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ce601f0c4d13b1e8",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_share.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"Where merchants flock and all ships dock, and over the oceans flows its stock.\" People say this in praise of Liyue's prosperity. But a city only becomes this successful through everyone playing their part diligently. That's the attitude I take to my work \u2014 I want to be worthy of what we enjoy here.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "ceaed12d7fe48079",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_32.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...In that case, three days.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cf110e5c25b17221",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_keqing_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "She came to me recently to discuss the reopening of the Bishui trade route. She even asked me what Rex Lapis would do if it were him. Admittedly, what we came up with was not quite on par with what he would have chosen. But... seeing the way she kept starting her plan from scratch over and over again, I think I started to understand her a little bit.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "cf2f829427b979ed",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That would be Ping. You probably know her as \"Madame Ping.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cf302177d35aa4f5",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It put me in a certain mood \u2014 similar to the one I felt during my training in Jueyun Karst, in fact.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cf584c510e61b3d9",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_weather_afterRain_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, the sun's out. When did that happen?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "cf6f79d4c960d75f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You know Second Life's business so well?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "cf9afd41ace0c679",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_starUp_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Power? ...Now there's a key performance indicator I haven't needed in a long time.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "d00c0cfa69d17747",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hm...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d043cf4261a83781",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_07a_1.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh! Uh...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d14b457b5ed01ebc",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Well, in concrete terms, I am the corporate secretary for the Qixing. At the moment, I am serving as Lady Ningguang's special emissary.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d1b3594a98b3d047",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_morax_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "All of Rex Lapis' decisions prioritize the welfare of all life in Liyue. That's what I admire about him the most. I want to live up to the same standard... but it seems that the harder I try to follow in his footsteps, the more overwhelmed I get and the more mistakes I make...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "d1ca74cd0f967b23",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_02a_2.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hmm... Considering the kindness you have shown me, I can let you stay for the adeptus training.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d2fbe39c3282b93a",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "#Thank you, {NICKNAME}, but Paimon's criticism is quite valid. I do have a tendency to neglect matters outside of work, and that's something I should improve on.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d35269f56de0c94f",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_3_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If I remember correctly, Second Life and Wanyou Boutique are old business rivals, competing for market share due to their similar wares.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d3e9b7daef2dd56d",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_pref_foodLike.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"Drink only spring water, eat only whole grains,\" that's my motto. So I would be grateful if you could please remove that treacherously enticing-looking plate of delicacies from my field of view. Much obliged!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "d5e459271e3f7b11",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_3_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You even have enough time for leisure? It seems you three are a suitable replacement for me after all.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d607468b2d5bb0f3",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_4_ganyu_02b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Is that so? You really are interested in the ways of adepti.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d69f19c93e1966d9",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_2_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "True... now that I think about it, Cloud Retainer would be quite capable of taking care of anything on her own... there's no need to worry about her.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d7198443dc938c57",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I found him unapproachable at first, too. But I believe... that being able to face him is an important part of my \"homecoming.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d7635d1969c48084",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah... you are too kind, I couldn't possibly...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d79ba2474558eb1c",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_1_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Eh... I'm still...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d842e3f06b228eaa",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "After a thousand years away, I came back to Jueyun Karst. Looking at the clouds floating among the mountains brings me peace of mind. I feel better now.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d843705587158a71",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_6_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No. The only adeptus who can unlock my true potential is...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d856526b3490907b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_17.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I won't let you down. I'm going to fulfill my contract and keep working as the Qixing's secretary.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d87a206ea982ec5b",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "They have already devised a plan: they will send out a decoy to divert the Abyss Order's forces away from the ruins, then send an expert thief inside to steal the treasure.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d8a629e4e6cc469b",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_idle_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "d8c8f41557fea2bc",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ205_4_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Cast your fear of injury by the wayside and fight with all your might. I too did this during the Archon War.",
+            "type": "DungeonReminder"
+        }
+    ],
+    [
+        "d8dae4666eadf4d4",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huixin...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "d9c7af9277fb929c",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_close1.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I want to understand more about humans... And I especially wish to hear what you think of them. Why, you ask? Because you're... you're a bit different from most people in Teyvat, just as I am... Please, tell me what you think.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "da041078192eac36",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That's so kind of you, Huixin. You went to great lengths to organize this.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "da3e2634e6a322a9",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_hard_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "This is a decisive moment.",
+            "type": "Card"
+        }
+    ],
+    [
+        "da8b390e6ba72550",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Is she the one that you mentioned before?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dac97320122c4812",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_26.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "To tell you the truth, Mr. Dvorak, I am somewhat related to the adepti myself. I am part-human and part-qilin. The qilin is an illuminated beast.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "daee67ea9d556617",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_sprint_start_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "dbccf24359ea58c7",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh my, you're right, I should. Okay everyone, please excuse me, I should get back to work now. Take good care of Keqing for me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dbf2492b1727f4a6",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Our greetings, Cloud Retainer.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dc3942f41f02de8a",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "When our workload is light, my coworkers sometimes organize social events.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dcef86f317ad436b",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I know some local folk songs. And a few other things come to mind, too...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dd090c8056e66075",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Anyway, the Treasure Hoarders discovered some previously unexplored ruins that the Abyss Order has been secretly guarding in the shadows.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dd368713343f23a7",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_13.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ddc0eb573c88eb3b",
+        {
+            "fileName": "English(US)\\VO_Card\\VO_ganyu\\vo_card_ganyu_inGame_easy_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Don't underestimate my experience.",
+            "type": "Card"
+        }
+    ],
+    [
+        "de16691f02e472cb",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_dialog_pendant.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"With authority over a thousand comes responsibility to a thousand.\" Rex Lapis knows the meaning of hardship better than anyone else in Liyue \u2014 he has seen everything that has happened from ancient times to the present day, and yet he was forced to give up his entire life. Compared to him, I'm just an everyday Vision holder with everyday responsibilities. I can't complain about my workload.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "de88e857453c4761",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_09b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Great, with your help, I'm sure I'll be able to integrate into human society in no time.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "de8c68f1514433cc",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you don't spill whatever you're scheming against Liyue...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "debdb1da7c2c6a11",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uncle Tian is too modest. He's been around for a long time. There's no one who can replace a person of such noble character.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "df07bd1b0bbc8046",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Cloud Retainer informed us that the one who played that melody and rescued the drowning man was none other than yourself.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "df348ebd96244f0e",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The other five, including Inazuma's Raiden Shogun, are no longer the same friends from two thousand years ago.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "df599731bf91cee4",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_24.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "They told me all about Mr. Dvorak's situation, but I was so engrossed in drafting the proposal that I forgot all about it...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "df7e53fc4aba8d31",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_sprint_start_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "We're way behind schedule...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "dfb65502fbc631ee",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you're telling the truth, then why would you, a member of the Fatui, suddenly appear on the outskirts of Qingce Village?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "dfe5a51b03543cd6",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "In the past... whenever I heard the sound of those tunes, I always felt that they were worlds apart from me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e05cde55074f7fe1",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...Keqing, I...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e05e82cf40a65ab0",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "When the Archon War came to its end two thousand years ago, the first iteration of The Seven would gather in Liyue and drink with Rex Lapis. But five of those original seven had already passed before Rex Lapis \u2014 it's truly a changing of the guard.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e0a2b74cc69bf254",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_19.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, perfect timing. We were just wrapping up our discussion here.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e248d1f41ff2fb79",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_5_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If you could see through the eyes of an adeptus, you wouldn't be so surprised.",
+            "type": "DungeonReminder"
+        }
+    ],
+    [
+        "e271dc714bd6ae39",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_explore_jump_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "e32b5f72e7398805",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I thought that coming back to Jueyun Karst and devoting myself to training would make me feel like an adeptus again.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e33fbbcc1a1a1044",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "When the adepti entrusted humans with overseeing Liyue, I knew it was only a matter of time until I had to leave.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e34d186509f60bea",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_H_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "e469a7ddc49c0e66",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That's why you're here? You want me to come back? I'm afraid you came here in vain.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e58ea92fb0344300",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_14.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I made a laughingstock out of myself. I might've spent too much time away from work \u2014 my intuition is not as accurate as it used to be.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e69b82b2d65978e7",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I... I never thought that I meant so much to you.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e6a2c5e7119c4e59",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_4_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "He might have destroyed all the evidence, but I believe the supplier, Fanmu Carpenter's, might still have some proof of it.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e6e65586b168463a",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_night_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "For once, I don't need to work overtime at night... Huh... what a strange feeling...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e73e40446a76afd7",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So I decided to use one of your father's tricks and play it out for you to see.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e7b7debf2fb5cba0",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_21.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "As a mortal, I've never dared to imagine a Liyue without Rex Lapis.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e7c9c56fe186ed5d",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "It must have been quite an undertaking to decorate such a large space. Thank you for all your efforts.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e7f2f630b36291c3",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Do you, uh, have a moment? I need to... discuss something with you.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e8682c5614f8adf1",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That's how Uncle Tian managed to keep his position in the Qixing secure for so many years.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "e9b5e63f32833f19",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_L_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "ec0786d572dac723",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh\u2014 Hello, I'm Ganyu. I work at Yujing Terrace. I've heard that you've returned to Liyue Harbor recently, so if you need anything, please feel free to come to me.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ec73cedf8ac77cb1",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ003_2_ganyu_19.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I'm afraid that it might've all become a mess during my absence.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ec82e24260c7b8fd",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQZYJ001_16_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Please, Lady Keqing? This is really important to me...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ec969ce2ffb82591",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "But anything related to the Abyss makes me feel like there is some unknown danger lurking beneath the surface...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ed04f0f16bea7bed",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill3_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "All hail!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "edba22ee2b9a7f41",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_20.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Say... if we planted flowers there and cared for them carefully enough, do you think that one day, we'd be able to recreate the sea of Glaze Lilies?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ee3b7e7fd4ed674a",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Excuse me...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ee6355992e477667",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_16.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Mr. Dvorak, I will need to discuss with you the number of musicians who will be coming to Liyue, as well as their catering and accommodation requirements...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "eef2a09da4c9d2e4",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_less30_teammate_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Please step back!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "ef1d07946890ed10",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_28.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yes. Anyway... if you're looking to uncover a lost melody, or shine light on a forgotten aspect of Liyue's cultural history, I'm probably not the best person to ask.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ef490f6284b2b9d9",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ107_3_ganyu_11a.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "\"At the Jade Chamber, together, we shall snip every one of these entwining dark threads.\"",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ef5596a431bc8e87",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_die_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Must... press... on...",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "efabb5b435505317",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "...and when you meet with the Ministry of Civil Affairs, please remind them that the festivities are not an excuse to procrastinate their work.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f00564e04197b99a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I think you've had enough. About time you tell us your plan, no?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f06984a0c8904103",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_17.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I've prepared a gift for her to mark the festival, just in case. However...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f07e82b5dc3cd9a1",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_life_die_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Rex Lapis... I am sorry!",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "f0d2f39113a1a2ee",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_friendship_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You have a last-minute job for me? Okay, uh... Sorry, please don't try and explain it all verbally... Write it down, leave a note here. I'll get to it as soon as possible.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "f0ee852b5b065736",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_05b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Please don't worry, I've slept like this every day for at least a thousand years.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f1015454c0855d43",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_01b_1.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uh... Huh!?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f16fd386fb37ce22",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Wait. I think I saw one of those troublemakers... Ah, over there!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f18fd62544eb9509",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_skill1_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Born of ice and frost.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "f19370b273123f3d",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You'll be able to confirm either way if it's her, and I can... um...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f1a9751bba7a3fd0",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_shenhe_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I actually don't know her all that well \u2014 I've only heard bits and pieces from Cloud Retainer. From what I've heard, she can be quite ferocious. Whenever her temper gets the better of her, she is likely to start obliterating her surroundings. I wonder if maybe she's just... bored. Should... Should I recommend some work to keep her occupied?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "f298b798a5b80bf4",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_5_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Could we perhaps borrow that invoice? We won't have any evidence to bring against Dongsheng otherwise.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f320174397d4a8ca",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_pref_hobby.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "My hobby... I would say... my job. What? Why don't jobs count as hobbies? I thought hobbies are supposed to be things you look forward to doing, and that make you feel good when you've done them. That describes my job perfectly. So what's the issue?",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "f3592c775d243349",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_mimiTomo_ly_ganyu_bedroom_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I will try to finish all of my work before the sun comes up, and then... have a good sleep.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f3e481b19990e1c8",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I don't think you'll need my guidance for what comes next.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f40e02bbdd1f407e",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_weather_breezy_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, I love the smell of Glaze Lilies.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "f4391e9fe12cd53f",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "If my appearance changed, then perhaps... I\u2014I mean, the way people see me \u2014 well, the way you see me...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f43ba1c5e2b57a31",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ahem...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f4a408748983e7b9",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_28.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "No, it is you who I should be thanking. If not for this chance meeting, I never thought that I would be able to contribute to the upcoming farewell for our ancient lord.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f4d109ab8189be08",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Your father must've experienced it firsthand. The lives of the common folk are riddled with hardships but are also full of joy.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f4f376086df16f47",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_2_ganyu_15.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "*sigh* Forget it. It's about time for my training. I will take my leave!",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f5448dc34440a53a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_11_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Hehe. It's actually one of your father's \u2014 the Tianshu's \u2014 old tricks. I just took some inspiration from it.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f5cdec863405d873",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_26.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I also know where wild Glaze Lilies can be found. See, I've just picked one myself. Here, you may have it if you wish.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f6d147066a1f51fc",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Sometimes they can be quite critical... People say that my whole mindset is just fundamentally different from an ordinary person's...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f8b17ed592005b4a",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_SZAQ001_1_ganyu_10.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Oh, thank you so much.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f902f63bb5b80e06",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackHeavy_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "f99715bd2f1cab7a",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ001_8_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Eh...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f9a0d12d56dac168",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_6_ganyu_06.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So the past still weighs heavily on your heart?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "f9a9538f4d0fd606",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_2_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The smell of the sea breeze makes me nostalgic.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fa8a2179d96f7ca5",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship3_02b.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "That's because... I've always feared I wouldn't be able to control my appetite, and that I'd end up eating all the vegetables I grew in one sitting...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fb5e80352eea81cb",
+        {
+            "fileName": "English(US)\\VO_AQ\\VO_ganyu\\vo_LYAQ203_5_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "(Uh-oh, I guess I really did forget to tell them...)",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fc0a3149c260bce9",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_21.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Yaoyao, thank you for bringing my herbs. I will make sure to take them.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fc5696b2b8ac4faf",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ102_6_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Uh, n\u2014no, it's something very important. In fact, I\u2014I must see Lady Ningguang about it immediately...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fc81c23080b4aa91",
+        {
+            "fileName": "English(US)\\VO_friendship\\VO_ganyu\\vo_ganyu_teammate_ningguang_01.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Each Tianquan adds their own interpretation and amendments to the founding laws of Liyue. The current one, Ningguang, does it with unmatched efficiency, but that efficacious manner of hers draws a great deal of criticism. I suppose it is always simpler to criticize than to tolerate.",
+            "type": "Fetter"
+        }
+    ],
+    [
+        "fc8a22b06a346fdd",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_5_ganyu_11.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Though these immortal mountains have lost an adeptus, the harbor of mortals has gained a wise elder.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fd28a6959b95415b",
+        {
+            "fileName": "English(US)\\VO_LQ\\VO_ganyu\\vo_GYLQ002_7_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "So you have nothing to do with the occupation of Fanmu Carpenter's warehouse?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fd78c11dcf353341",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship2_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "You know, I used to agonize a lot over whether to try and integrate into human society.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fdbf2344b0a3686d",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_4_ganyu_09.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "The way those melodies make me feel isn't all that different from other people after all. They're about mundane details of everyday existence, life's ups and downs, joys and sorrows...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fdf4ce59e20fc40c",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_attackLight_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ],
+    [
+        "fe1c39328fd249ce",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_07.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Okay, I'm done. I also left her a note so that she knows where to find us. We won't miss her again.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fe25b814aa102648",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ_talk_7_ganyu_02.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "I hope everything's going well for you. Don't be like me, worrying all the time...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fe7c757673eb8a53",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ201_5_ganyu_12.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Some live music will certainly add to the festive atmosphere on the night of the Lantern Rite. As for the venue... Hmm, let's reserve a space at the docks.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ff32f98229efcab7",
+        {
+            "fileName": "English(US)\\VO_HS\\VO_ganyu\\vo_ganyu_mimitomo_friendship1_04.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Even at midday, it's perfectly safe to take a nap.",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ff462d443a545570",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_3_ganyu_05.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Ah, so we just missed her...",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "ff7034630758ec1f",
+        {
+            "fileName": "English(US)\\VO_EQ\\VO_ganyu\\vo_EQHDJ202_1_ganyu_08.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "text": "Huh? Me...?",
+            "type": "Dialog"
+        }
+    ],
+    [
+        "fffdaa7d0cc4eb87",
+        {
+            "fileName": "English(US)\\VO_gameplay\\VO_ganyu\\vo_ganyu_battle_hit_H_03.wem",
+            "language": "EN",
+            "npcName": "Ganyu",
+            "type": "AnimatorEvent"
+        }
+    ]
+]
