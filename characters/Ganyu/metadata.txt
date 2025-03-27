@@ -32,11 +32,11 @@
 18cfa81f330d9a7a|I see. It's not uncommon for merchants to be blinded by greed.
 1a4ecd9e163662d3|The training is much to her signature style... I hope it won't make it seem like she is too unaware of the abilities of others.
 1d6004fc8412b04a|Yes, precisely. As an alternative, you may... try to solve this problem with force once again.
-1eb452aa18d4f6a8|#Hello, {NICKNAME}.
+1eb452aa18d4f6a8|Hello, Traveler.
 1eb48cde239bef40|I'm somewhat of a picky eater, sorry you went to all this trouble...
 1edeb9afc39b89cd|If you're ready, we shall begin the training.
 213a38b733085854|As per our contract.
-220ff9b3e88b2f0b|That won't be necessary, Mr. Bolai. Wanyou Boutique's credit is not sufficient to accept orders directly from Yuehai Pavilion.
+220ff9b3e88b2f0b|That won't be necessary, Mr. Bolai. Wan-jo Boutique's credit is not sufficient to accept orders directly from Yuehai Pavilion.
 2261c19809a5eb91|Let's see... "I want to understand Ganyu better..." Wh—What sort of request is that!? I've never done this before... Um, um, um... Okay... I can, ah... run you through my annual review from last year? That should bring you up to speed on me... No good? Oh, okay then...
 233a25c5930d9a65|Well, Second Life's credit has always been excellent, and based on their tax records, their business is thriving...
 24928c34960d27fd|If it's just a meal... there's no reason for me to decline. It'll be my pleasure, Huixin.
@@ -66,8 +66,8 @@
 36669c6121514be1|Let's go for a walk in the port.
 36aa6648e05ee571|I heard that you've encountered some problems, and came to see if I could be of some help.
 36bb3e9e4bcd825c|Well... uh, let's save that conversation for another day. You say that you are here looking for Glaze Lilies?
-36cfa1b95b3c16ff|#Hello, {NICKNAME}.
-37e52aaff64f807e|Yes, I... I am a mix of human and Qilin. Adeptus blood flows through my veins. I fought for Rex Lapis and the city of Liyue during the Archon War.
+36cfa1b95b3c16ff|Hello, Traveler.
+37e52aaff64f807e|Yes, I... I am a mix of human and Ki-lin. Adeptus blood flows through my veins. I fought for Rex Lapis and the city of Liyue during the Archon War.
 37f2cf6984d5e244|There's nothing wrong with reaping a reward every now and then.
 38cbe0b9de4734de|"Witness"...
 39d4f3887c537829|Though in the past, I've been reluctant to grow vegetables... I always worried that I wouldn't be able to control my appetite and I'd end up eating them all in one sitting...
@@ -79,10 +79,10 @@
 3ea083263446b701|Hehe... Let's keep moving towards Master Lu's warehouse. Our goal is to get the invoice, after all.
 402f5f72806c934d|My apologies, you who have returned from Jueyun Karst... I am duty-bound, and cannot extend my courtesy to you in full.
 409984e235698673|This is long overdue.
-40eb738edfce0b3d|#Good night to you as well, {NICKNAME}.
+40eb738edfce0b3d|Good night to you as well, Traveler.
 413415de986775a3|Besides, I can already feel their malicious intentions. Consider it...
 429de8e1a7b62ce4|Copy that! Here is a draft Service Agreement for your review and consideration. Effective immediately, if all is in order... Ah! Wait a sec, wait a sec, I forgot to sign it... Gan... Yu... There. Right. Now... What was it you needed me to do for you exactly?
-431d21facc35f053|With the blood of the Qilin, I guard you against evil.
+431d21facc35f053|With the blood of the Ki-lin, I guard you against evil.
 43c13c2c4cdb1248|Access denied.
 44421e9d4ff6e03a|Whenever my duties take me near Yujing Terrace these days, I draw the windows to block my view of the gardens.
 4475e2d3db8971f6|Then it would only be proper for me to offer you something in return! Shall I take you out... for a meal? In a restaurant?
@@ -100,7 +100,7 @@
 4f0c47b3b01d4943|A person of your age should focus on work and family, instead of chasing after fairytales.
 4faadb2847ae90a8|Whether it's an ad-hoc assignment or any other task, I'm free to assist...
 503ac5a0d73020bf|Hehehe, you're very direct, Master Lu. I will be plain — we're looking for proof that Dongsheng from Second Life has been evading taxation.
-50e2067359ab4ae6|#"I wish to meet {F#her}{M#him}."
+50e2067359ab4ae6|I wish to meet Father Mahim.
 510c550e98b28aa7|Sure... but I may not be able to offer any practical advice if our topic of discussion is not work-related.
 5181547c1b572e5c|That smell... the fragrance of true Liyue cuisine.
 519507fdb1409e66|In that case...
@@ -111,7 +111,7 @@
 593105f2e0b53b0e|Next on the agenda...
 5ad57db2e3d8f07a|Did I miscalculate?
 5b15d2889a18e9e4|Despite how dangerous that makes it, all the Treasure Hoarders can think about is what kinds of treasure could be inside...
-5c25ac2997491412|Xiangling is a celebrity! Um, but... I try to avoid her restaurant. Just... because. No reason. ...Okay, fine. It's not a big secret anyway. It's because you can smell her cooking all the way from the other end of the street. And once you get a whiff, I mean, that's it. You're gone. Next thing you know, you're ordering your second, maybe third round... You just can't control it. Even though I only eat the vegetarian dishes, I don't know what it is. But that is not a road I want to go down again... Not after...
+5c25ac2997491412|Shang-ling is a celebrity! Um, but... I try to avoid her restaurant. Just... because. No reason. ...Okay, fine. It's not a big secret anyway. It's because you can smell her cooking all the way from the other end of the street. And once you get a whiff, I mean, that's it. You're gone. Next thing you know, you're ordering your second, maybe third round... You just can't control it. Even though I only eat the vegetarian dishes, I don't know what it is. But that is not a road I want to go down again... Not after...
 5c660bc7d8800ade|Why did you come here?
 5d0057e2bf8c4c90|...Uncle Tian is a member of the Liyue Qixing, the "Tianshu."
 5d3015e82a7801b3|...
@@ -136,7 +136,7 @@
 6580de4cadd684ce|Ah, that's not necessary. No need to be so serious. It was nothing, really.
 6581dcc70029a131|Yes. Now that the spirit of Rex Lapis has returned to the heavens, only Barbatos of Mondstadt remains of the first Seven.
 662709d5813c394f|Ah, I shouldn't... I have left the human world. Please contact the Yuehai Pavilion regarding matters concerning the commercial port.
-66788933f5a4e5fb|#"Invite {F#her}{M#him} to come here."
+66788933f5a4e5fb|Invite her to come here
 66aad25e58589070|I figured that as Uncle Tian's daughter, you'd naturally grasp your father's strategies.
 66aec23a07fb2661|Let's start with Wanyou Boutique. The owner's name is... Bolai, isn't it?
 673d11d7e6be676b|Does Her Eminence the Yuheng have anything to add?
@@ -179,7 +179,7 @@
 8250724db9885d4b|I didn't know that you think so highly of me.
 826ae159bb499d76|"At the Jade Chamber, together, we shall snip every one of these entwining dark threads."
 83799e5f640914a5|So, what made you change your mind?
-8448d4ef6a75054f|Qilins are strict vegetarians, so please do not take offense when I decline meat dishes. Yes, that includes your vegetable fritters since they have been fried in animal fat. Thanks, but I can't. I'm afraid I really can't. I don't mean to argue, it's just I have a keen sense of smell, so I know how they've been cooked.
+8448d4ef6a75054f|Ki-lins are strict vegetarians, so please do not take offense when I decline meat dishes. Yes, that includes your vegetable fritters since they have been fried in animal fat. Thanks, but I can't. I'm afraid I really can't. I don't mean to argue, it's just I have a keen sense of smell, so I know how they've been cooked.
 844dda4f16a90dbe|Ahh... Okay... Duly noted!
 853460248e7f985e|This will hurt a little... Please bear with us!
 88212b5a4b7164f2|Perhaps whoever left these behind was... also fulfilling a contract?
@@ -195,7 +195,7 @@
 8dc5a767b322db5a|I think it's beautiful here.
 8f0cd06c471d3a6a|Your liking for Liyue also signifies your approval of my work... Thank you.
 8f87c912352a5d10|I must admit, I didn't expect you to come up with such a silly excuse.
-90f1bb4b6f5a1704|#"Invite {F#her}{M#him} to come here."
+90f1bb4b6f5a1704|Invite him to come here.
 90f74ca67a626e07|But as an adeptus... I think I will eventually come to grips with reality. Since Rex Lapis has passed, the time of Liyue's contract with the gods and adepti has now reached its end.
 922038b824e2b921|...
 939b63e5a084595a|We won't cause a serious diplomatic crisis by getting into some small scuffle with the Fatui within our borders. You need not worry.
@@ -214,7 +214,7 @@
 9ee736f44084fa53|What's your choice then?
 9f485411ecc35cbe|CLOUD RE—TAI—NER!
 9f75457ff377506b|So that's what happened. I see.
-a0a467a04d05ce10|I've had a long, hard think, and I've realized that so long as it's for a work-related matter, there's really nothing for me to be embarrassed about. So if you really need to understand me more... This, uh, hairpiece... it's actually my horns. That's right. I'm part illuminated beast, qilin to be exact. Okay, so, now we've got that out the way... Please sign this non-disclosure agreement for me. And don't tell a soul.
+a0a467a04d05ce10|I've had a long, hard think, and I've realized that so long as it's for a work-related matter, there's really nothing for me to be embarrassed about. So if you really need to understand me more... This, uh, hairpiece... it's actually my horns. That's right. I'm part illuminated beast, Ki-lin to be exact. Okay, so, now we've got that out the way... Please sign this non-disclosure agreement for me. And don't tell a soul.
 a1b31baa91a16489|Hehe. That's good.
 a2168e3eaaaa5502|Ah, well, I met you at that time as an emissary of the Tianquan. But now, I am simply out on a stroll to see the flowers.
 a23958956a86cded|After the war ended, I signed a contract with Rex Lapis and took the position as secretary for the Qixing. I've continued those duties to this very day.
@@ -229,17 +229,17 @@ a692ff9465c689f9|Alright, I'll go with you to Liyue Harbor. That said, I still t
 a6de3bed98d61d08|You two... I did not expect to meet you here. Is it official or private affairs that bring you here?
 a6eb888688b1fdfe|I can fix this!
 a7dafde5609ddc15|Yaoyao... Someone I know at the Ministry of Civil Affairs tasked me with keeping an eye on her in the city, making sure she doesn't try and sneak aboard The Crux... Oh, you want to know what the Ministry of Civil Affairs does? ...Who knows, am I right!? Heh... Who knows what they do? ...Not me...
-a8bcf51ecbc171e9|#Oh...! I forgot to say... good morning, {NICKNAME}!
+a8bcf51ecbc171e9|Oh...! I forgot to say... good morning, Traveler!
 ab9f659160727351|Anyway, um... Thanks so much, once again!
 ac21a8eb119a60d8|I... I have nothing to hide.
 ad82ff502a68b399|If you lie on the grass, you can feel the heartbeat of the world.
 ae2d85a2b2cec117|Such authentic delicacies... Oh no! I think I might have eaten too much...
-aebab567515647e3|Even though I'm part qilin, I'm still part human, too. Still, all these years I've been asking myself the same question: Do I really belong in the human world? Maybe I'm just like a Dendro Slime hiding in the earth, burying myself in numbers and reports in order to escape reality.
+aebab567515647e3|Even though I'm part Ki-lin, I'm still part human, too. Still, all these years I've been asking myself the same question: Do I really belong in the human world? Maybe I'm just like a Dendro Slime hiding in the earth, burying myself in numbers and reports in order to escape reality.
 b02bc1f446c960a1|They must be plotting something against Liyue Harbor.
 b04aafa964d98e43|I'm a little low on energy.
 b1d9eea153a9595e|Ah! That reminds me, how was your visit to the Jade Chamber?
 b2393b87d7a24a95|Haven't I made myself clear? Mr. Dongsheng, you've already been proven guilty of tax evasion. I just came here to see if you'd confess.
-b2eb2329aa131e34|I remember reading in an ancient text that "Only when days be darker than the darkest night, may a qilin be compelled to fight." That's a massive exaggeration, but... should the time come for battle, and should you need me, then I will give it every ounce of my strength.
+b2eb2329aa131e34|I remember reading in an ancient text that "Only when days be darker than the darkest night, may a Ki-lin be compelled to fight." That's a massive exaggeration, but... should the time come for battle, and should you need me, then I will give it every ounce of my strength.
 b326c381bf9cdad5|Um... Understood.
 b32c4f9981f54a0f|Oh? Mr. Dongsheng, I'd like to hear a little more about this "dirty laundry." Would you care to elaborate?
 b3c3183f793cbc4e|Indeed, it has been a while, Huixin. I'm flattered, but aren't you exaggerating a little?
@@ -266,7 +266,7 @@ bd7a5538729fe010|I should draft a report about this experience.
 bd8d8c1ce3d434a4|It all comes down to knowing the rules.
 be61f8ec4b248dee|Great! And, uh... you'll help me plant them too, right...? First rule of gardening — grow together, eat together!
 bf1252ea78f73c6a|Glaze over!
-c126347c25f79049|#"I wish to meet {F#her}{M#him}."
+c126347c25f79049|I wish to meet her.
 c273f3e4ec0d7d54|I appreciate the thought, but... meat's not really my thing.
 c876281582507e02|Ngh... Didn't see that coming.
 c88ae48928dad418|With pleasure.
